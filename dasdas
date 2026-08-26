@@ -1,0 +1,17 @@
+[33mcommit 080a70253609c725b433143b67c4f1ccdf5f9b12[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Felipe Nascimento <lipe.conta1632@gmail.com>
+Date:   Tue May 19 23:08:40 2026 -0300
+
+    Adicionado as entidades, a criação da tabela e a dependência de JPA
+
+[33mcommit fea76b3bbe41aca1955f4491cb16903a98be19bb[m
+Author: Felipe Nascimento <lipe.conta1632@gmail.com>
+Date:   Tue May 19 22:39:50 2026 -0300
+
+    Primeiro commit
+
+[33mcommit 987360d92f7e81b3e36abbef535df4b365b5ecfa[m
+Author: Felipe Mevel <109548375+Felipemevel@users.noreply.github.com>
+Date:   Tue May 19 22:29:19 2026 -0300
+
+    Initial commit
