@@ -17,6 +17,7 @@ public class MissaoModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    @Column (unique = true)
     private String titulo;
     private Dificuldade dificuldade;
     @OneToMany(mappedBy = "missaoVinculada")
